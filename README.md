@@ -13,7 +13,7 @@ such as Naive Bayes, Logistic Regression, or Support Vector
 
 Machines.
 
--Task 2
+- Task 2
 SPAM SMS DETECTION
 
 Build an AI model that can classify SMS messages as spam or
@@ -22,7 +22,7 @@ classifiers like Naive Bayes, Logistic Regression, or Support Vector
 
 Machines to identify spam messages
 
--Task 3
+- Task 3
 CREDIT CARD FRAUD
 DETECTION
 
